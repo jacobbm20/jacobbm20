@@ -1,8 +1,7 @@
  Hi, I’m Jacob Martin!
 
   - I am currently a software engineering student at Auburn University, expected graduation in Spring of 2025.
-  - I'm interested in learning and developing software that solve real-world problems. Currrently, I am developing a simple Premier League
-    match predictor using machine learning.
+  - I'm interested in learning and developing software that solve real-world problems. 
   - You can contact me via email @: jacobbm2021@gmail.com
     
 
